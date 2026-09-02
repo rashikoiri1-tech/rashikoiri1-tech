@@ -1,35 +1,26 @@
-# Hey, I'm Rashi 👋
-🚀 Full‑stack Developer | ⚡ Debugging Wizard | 🎨 UI/UX Enthusiast  
+<!-- 🌌 Futuristic GitHub Profile Card -->
+<div align="center">
+
+<img src="your-photo.jpeg" alt="Rashi" width="200" style="border-radius:50%; box-shadow:0 0 20px #ff00ff;">
+
+# 🚀 Full‑stack Developer | ⚡ Debugging Wizard | 🎨 UI/UX Enthusiast
 
 I love building crazy full‑stack apps, experimenting with timelines, and making dashboards look awesome.
 
 ---
 
-<table>
-<tr>
-<td>
-
 ### 📊 GitHub Stats
 ![Rashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashikoiri1-tech&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashikoiri1-tech&theme=radical)
 
-</td>
-<td>
-
-<img src="your-photo.png" alt="Rashi" width="200" style="border-radius:50%">
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### ⚡ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -49,6 +40,4 @@ I love building crazy full‑stack apps, experimenting with timelines, and makin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
 
----
-
-⭐ **Pro Tip:** Keep updating your pinned projects and add screenshots or GIFs inside each repo README for extra flair!
+</div>

@@ -37,7 +37,7 @@ I love building crazy full‑stack apps, experimenting with timelines, and makin
 
 ### 🌈 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-rashikoiri1--tech-black?style=for-the-badge&logo=github)](https://github.com/rashikoiri1-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashi-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rashi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rashi-koiri-73a074384)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
 
 </div>

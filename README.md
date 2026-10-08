@@ -1,7 +1,8 @@
 <!-- 🌌 Futuristic GitHub Profile Card -->
 <div align="center">
 
-<img src="your-photo.jpeg" alt="Rashi" width="200" style="border-radius:50%; box-shadow:0 0 20px #ff00ff;">
+<img src="![Uploading image.png…]()
+" alt="Rashi" width="200" style="border-radius:50%; box-shadow:0 0 20px #ff00ff;">
 
 # 🚀 Full‑stack Developer | ⚡ Debugging Wizard | 🎨 UI/UX Enthusiast
 
